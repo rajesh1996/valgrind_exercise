@@ -17,8 +17,10 @@ Run tests: ./test/cpp-test
 Run program: ./app/shell-app
 ```
 ## Running Valgrind
+```
 - sudo apt install valgrind
 - sudo apt install kcachegrind
 
 - cd <path to repository>
 - valgrind --leak-check=full ./build/app/shell-app 
+```
