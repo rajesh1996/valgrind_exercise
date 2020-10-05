@@ -1,6 +1,6 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/rajesh1996/valgrind_exercise.svg?branch=master)](https://travis-ci.org/rajesh1996/valgrind_exercise)
-[![Coverage Status](https://coveralls.io/repos/github/rajesh1996/valgrind_exercise/badge.svg?branch=master)](https://coveralls.io/github/rajesh1996/valgrind_exercise?branch=master)
+[![Build Status](https://travis-ci.org/rajesh1996/valgrind_exercise.svg?branch=valgrind_exercise)](https://travis-ci.org/rajesh1996/valgrind_exercise)
+[![Coverage Status](https://coveralls.io/repos/github/rajesh1996/valgrind_exercise/badge.svg?branch=valgrind_exercise)](https://coveralls.io/github/rajesh1996/valgrind_exercise?branch=valgrind_exercise)
 ---
 
 ## Overview
