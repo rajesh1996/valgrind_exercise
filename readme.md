@@ -25,3 +25,4 @@ Run program: ./app/shell-app
 - valgrind --leak-check=full ./app/shell-app 
 - valgrind --tool=callgrind ./app/shell-app
 ```
+Output text files before and after fixes can be found in results dir
